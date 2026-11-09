@@ -10,6 +10,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0035-search-insert-position](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 ## Newton's Method
 |  |
 | ------- |
@@ -32,4 +34,8 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
