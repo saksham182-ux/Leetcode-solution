@@ -22,6 +22,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0066-plus-one](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,5 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
