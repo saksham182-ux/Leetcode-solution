@@ -21,6 +21,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | ------- |
 | [0066-plus-one](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0342-power-of-four) |
@@ -36,6 +37,7 @@ My LeetCode solutions — synced automatically by LeetSync
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
 |  |
@@ -52,4 +54,8 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0231-power-of-two](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0342-power-of-four) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
