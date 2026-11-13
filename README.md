@@ -30,6 +30,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | ------- |
 | [0001-two-sum](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0383-ransom-note](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0383-ransom-note) |
 ## Newton's Method
 |  |
 | ------- |
@@ -58,4 +59,12 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
