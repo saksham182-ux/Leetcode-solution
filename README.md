@@ -62,9 +62,18 @@ My LeetCode solutions — synced automatically by LeetSync
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0383-ransom-note) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
