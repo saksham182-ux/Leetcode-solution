@@ -11,6 +11,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0066-plus-one](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0066-plus-one](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0342-power-of-four) |
@@ -76,4 +78,24 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
