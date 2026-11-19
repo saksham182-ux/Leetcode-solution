@@ -25,6 +25,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0070-climbing-stairs](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0342-power-of-four) |
 ## Hash Table
@@ -86,6 +87,7 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -98,4 +100,8 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
