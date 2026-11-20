@@ -29,6 +29,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0258-add-digits](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0342-power-of-four) |
+| [2427-number-of-common-factors](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,11 +85,13 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2427-number-of-common-factors) |
 ## Primality Test
 |  |
 | ------- |
@@ -105,4 +108,12 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0258-add-digits) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
