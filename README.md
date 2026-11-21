@@ -30,6 +30,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0326-power-of-three](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0342-power-of-four) |
 | [2427-number-of-common-factors](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2469-convert-the-temperature) |
 ## Hash Table
 |  |
 | ------- |
