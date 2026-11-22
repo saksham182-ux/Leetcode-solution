@@ -11,6 +11,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | [0066-plus-one](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@ My LeetCode solutions — synced automatically by LeetSync
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0342-power-of-four) |
 ## Recursion
