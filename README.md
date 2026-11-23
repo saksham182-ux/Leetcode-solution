@@ -8,6 +8,7 @@ My LeetCode solutions — synced automatically by LeetSync
 | ------- |
 | [0001-two-sum](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -45,6 +46,7 @@ My LeetCode solutions — synced automatically by LeetSync
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
@@ -119,4 +121,8 @@ My LeetCode solutions — synced automatically by LeetSync
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/saksham182-ux/Leetcode-solution/tree/master/2427-number-of-common-factors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/saksham182-ux/Leetcode-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
